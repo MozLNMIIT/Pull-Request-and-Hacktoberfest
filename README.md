@@ -4,7 +4,7 @@
  ## The letters listed here is jumbled and is written backwards. Correct it and send Pull requests!!!
 
  +Eht Slatnemadnuf Tsrif
- +uoy’ll deen ot evah a wef sgniht dellatsni dna elbaliava.
+ you’ll need to have a few things installed and available.
  For starters, I’ll assume you already have Git installed. 
  Fi uoy nod’t, barg a ypoc fo eht tsetal noisrev rof ruoy gnitarepo metsys. 
  Fi uoy’er no Xunil, uoy nac llatsni ti aiv ruoy egakcap reganam daetsni.
