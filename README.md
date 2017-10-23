@@ -15,7 +15,7 @@
  Neht, htiw gnihtyreve deraperp, tel’s pets hguorht a dradnats tes fo snoitca uoy’ll ylnommoc esu no a yliad sisab. 
  Yllacificeps, ew’er gniog ot esu tini, enolc, dda, timmoc, ffid, dna gol. Ereht era a rebmun fo rehto, 
  erom decnavda snoitca uoy nac mrofrep.
- Tub ni eht gninnigeb, uoy now’t deen meht. 
+ but in the beginning, you won’t need them. 
  Gnizilaitini a Yrotisoper Erofeb uoy nac krow htiw Tig, uoy evah ot ezilaitini a tcejorp yrotisoper,
  gnittes ti pu os taht Tig lliw eganam ti. Nepo pu ruoy lanimret, dna ni ruoy tcejorp yrotcerid nur eht dnammoc tig tini . 
  sa nwohs ni eht tohsneercs woleb. A wen neddih yrotcerid dellac .tig lliw won eb tneserp ni ruoy tcejorp yrotcerid. 
