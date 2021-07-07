@@ -1,9 +1,9 @@
 ![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat) [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/moz-lnmiit/Lobby)
 
 # Pull-Request-and-Hacktoberfest
- A basic page to give hands on expirience on git-GitHub.
+ A basic page to give hands on experience on git-GitHub.
 
- ## The letters listed here is jumbled and is written backwards. Correct it and send Pull requests!!!
+ ## The letters listed here are jumbled and are written backwards. Correct them and send Pull requests!!!
 The fundamentals: 
 
 First you'll need to have a few things installed and available. For starters, I'll assume you already have git installed. 
