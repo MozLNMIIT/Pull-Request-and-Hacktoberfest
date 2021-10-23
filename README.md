@@ -2,9 +2,14 @@
 
 # Pull-Request-and-Hacktoberfest
  A basic page to give hands on expirience on git-GitHub.
-
+    <title>Hacktoberfest 2020</title>
+  </head>
+  <body>
+    <h1 id="header">Hack<span class="middle">to</span>berfest</h1>
+    <canvas class="canvas" id="canvas"> </canvas>
  ## The letters listed here is jumbled and is written backwards. Correct it and send Pull requests!!!
 The fundamentals: 
+
 
 First you'll need to have a few things installed and available. For starters, I'll assume you already have git installed. 
 If you don't, grab a copy of the latest version for your operating system. 
